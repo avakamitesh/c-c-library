@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre>x
 <strong>Input:</strong> nums = [1,3,5,6], target = 5
 <strong>Output:</strong> 2
 </pre>
