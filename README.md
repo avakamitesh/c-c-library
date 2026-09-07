@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/avakamitesh/c-c-library/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/avakamitesh/c-c-library/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/avakamitesh/c-c-library/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/avakamitesh/c-c-library/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/avakamitesh/c-c-library/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/avakamitesh/c-c-library/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/avakamitesh/c-c-library/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/avakamitesh/c-c-library/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/avakamitesh/c-c-library/tree/master/1563-stone-game-v) |
