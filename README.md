@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/avakamitesh/c-c-library/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/avakamitesh/c-c-library/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avakamitesh/c-c-library/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avakamitesh/c-c-library/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/avakamitesh/c-c-library/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/avakamitesh/c-c-library/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avakamitesh/c-c-library/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/avakamitesh/c-c-library/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avakamitesh/c-c-library/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avakamitesh/c-c-library/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
