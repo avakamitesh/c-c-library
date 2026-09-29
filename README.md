@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/avakamitesh/c-c-library/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/avakamitesh/c-c-library/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/avakamitesh/c-c-library/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/avakamitesh/c-c-library/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avakamitesh/c-c-library/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/avakamitesh/c-c-library/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/avakamitesh/c-c-library/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avakamitesh/c-c-library/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/avakamitesh/c-c-library/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
