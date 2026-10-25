@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/avakamitesh/c-c-library/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avakamitesh/c-c-library/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/avakamitesh/c-c-library/tree/master/1563-stone-game-v) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avakamitesh/c-c-library/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/avakamitesh/c-c-library/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -284,10 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/avakamitesh/c-c-library/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/avakamitesh/c-c-library/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avakamitesh/c-c-library/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avakamitesh/c-c-library/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avakamitesh/c-c-library/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -373,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avakamitesh/c-c-library/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
