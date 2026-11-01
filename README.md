@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/avakamitesh/c-c-library/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/avakamitesh/c-c-library/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/avakamitesh/c-c-library/tree/master/1401-circle-and-rectangle-overlapping) |
