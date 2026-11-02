@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avakamitesh/c-c-library/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/avakamitesh/c-c-library/tree/master/0009-palindrome-number) |
 | [0836-rectangle-overlap](https://github.com/avakamitesh/c-c-library/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avakamitesh/c-c-library/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avakamitesh/c-c-library/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/avakamitesh/c-c-library/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/avakamitesh/c-c-library/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
