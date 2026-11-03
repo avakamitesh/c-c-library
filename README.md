@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/avakamitesh/c-c-library/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/avakamitesh/c-c-library/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/avakamitesh/c-c-library/tree/master/0680-valid-palindrome-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
