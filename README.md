@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/avakamitesh/c-c-library/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/avakamitesh/c-c-library/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/avakamitesh/c-c-library/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/avakamitesh/c-c-library/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/avakamitesh/c-c-library/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/avakamitesh/c-c-library/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/avakamitesh/c-c-library/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/avakamitesh/c-c-library/tree/master/0050-powx-n) |
 ## String Matching
 |  |
 | ------- |
