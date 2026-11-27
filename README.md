@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/avakamitesh/c-c-library/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0033-search-in-rotated-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/avakamitesh/c-c-library/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/avakamitesh/c-c-library/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/avakamitesh/c-c-library/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/avakamitesh/c-c-library/tree/master/1254-number-of-closed-islands) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/avakamitesh/c-c-library/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/avakamitesh/c-c-library/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/avakamitesh/c-c-library/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avakamitesh/c-c-library/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/avakamitesh/c-c-library/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avakamitesh/c-c-library/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/avakamitesh/c-c-library/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/avakamitesh/c-c-library/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/avakamitesh/c-c-library/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avakamitesh/c-c-library/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avakamitesh/c-c-library/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/avakamitesh/c-c-library/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
